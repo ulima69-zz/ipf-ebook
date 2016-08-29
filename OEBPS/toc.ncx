@@ -88,5 +88,13 @@
          </navLabel>
          <content src="ipf008.html"/>
       </navPoint>
+	  
+	  
+	  <navPoint id="ipf013" playOrder="2">
+         <navLabel>
+            <text>O ensino da filosofia: a leitura e o acontecimento.</text>
+         </navLabel>
+         <content src="ipf013.html"/>
+      </navPoint>
    </navMap>
 </ncx>
